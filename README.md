@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, my name is **Mike**!
+### **I'm a biginner *Front-end developer***
 
-<!--
-**MGoldobin/MGoldobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Technologies:  
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- 🌱 I’m currently learning at the PSU
+- 👯 I’m looking to collaborate on [PHP *Back-end developer*](https://github.com/IKostarev)
+- 🤔 I’m looking for help with React and Redux
+- ⚡ Fun fact: I like [VS Code](https://code.visualstudio.com) and mashed potatoes with cutlet
+
+
+
+### How to reach me:
+Telegram: https://t.me/mgoldobin  
+Email: mgoldobin@psu.ru
