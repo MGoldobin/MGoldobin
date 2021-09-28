@@ -12,6 +12,7 @@
 
 
 ### About me
+- :underage: My age: 21
 - 🌱 I’m currently learning at the PSU
 - 👯 I’m looking to collaborate on [PHP *Back-end developer*](https://github.com/IKostarev)
 - 🤔 I’m looking for help with React and Redux
