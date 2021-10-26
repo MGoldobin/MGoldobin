@@ -21,7 +21,6 @@
 ### Test assignments
 - [DS academy](https://github.com/MGoldobin/DS_academy)
 - [Xsolla school](https://github.com/MGoldobin/xsolla_school)
-- GreenData
 - ...
 
 ### How to reach me:
