@@ -11,12 +11,6 @@
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp)
 -->
 
-### About me
-- :underage: My age: 21
-- 🌱 I’m currently learning at the PSU
-- 👯 I’m looking to collaborate on [PHP *Back-end developer*](https://github.com/IKostarev)
-- 🤔 I’m looking for help with React and Redux
-
 ### Test assignments
 - [DS academy](https://github.com/MGoldobin/DS_academy)
 - [Xsolla school](https://github.com/MGoldobin/xsolla_school)
