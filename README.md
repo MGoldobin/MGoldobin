@@ -14,6 +14,7 @@
 ### Test assignments
 - [DS academy](https://github.com/MGoldobin/DS_academy)
 - [Xsolla school](https://github.com/MGoldobin/xsolla_school)
+- [Avito-tech](https://github.com/MGoldobin/avito-tech)
 - ...
 
 ### How to reach me:
