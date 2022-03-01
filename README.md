@@ -15,6 +15,7 @@
 - [DS academy](https://github.com/MGoldobin/DS_academy)
 - [Xsolla school](https://github.com/MGoldobin/xsolla_school)
 - [Avito-tech](https://github.com/MGoldobin/avito-tech)
+- [Digital design](https://github.com/MGoldobin/digital_design)
 - ...
 
 ### How to reach me:
