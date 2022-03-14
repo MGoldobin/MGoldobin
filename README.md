@@ -16,6 +16,7 @@
 - [Xsolla school](https://github.com/MGoldobin/xsolla_school)
 - [Avito-tech](https://github.com/MGoldobin/avito-tech)
 - [Digital design](https://github.com/MGoldobin/digital_design)
+- [GreenData](https://github.com/MGoldobin/green_data)
 - ...
 
 ### How to reach me:
