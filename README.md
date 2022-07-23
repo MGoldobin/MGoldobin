@@ -6,6 +6,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![MobX](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=mobx)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 
 ### Other languages and technologies
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
