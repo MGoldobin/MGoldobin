@@ -6,11 +6,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vuedotjs)
 ![MobX](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=mobx)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 
 ### Other languages and technologies
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
+![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=nestjs)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=csharp)
 
